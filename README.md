@@ -1,1 +1,29 @@
 # Housing-Analysis
+
+Analysis and compares on-campus and off-campus housing options for students at **CSUMB**. Includes data collection, exploratory analysis, and a simple cost prediction model to help understand housing affordability and trends.
+
+---
+
+## Goals
+- Compare cost trend across housing options **on-campus**:
+*East Campus, North Quad, Promontory, Residence Halls*
+-Compare **off-campus** listing via sources Zillow and Craigslist.
+-Predict housing costs
+-Visualize trends and help students make informed living decisions.
+
+--
+
+## Sources
+- **On-Campus Housing**: CSUMB Housing website (https://csumb.edu/housing/)
+- **Off-Campus Listings**: Public data from Zillow and/or Craigslist (manual collection or web scraping)
+
+--
+
+## Tools and Libraries
+
+-Python 3.x
+-pandas, numpy
+-matplotlib, seaborn
+-scikit-learn 
+-Streamlit (optional dashboard)
+
