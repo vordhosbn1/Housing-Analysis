@@ -2,7 +2,7 @@
 
 Analysis and compares on-campus and off-campus housing options for students at **CSUMB**. Includes data collection, exploratory analysis, and a simple cost prediction model to help understand housing affordability and trends.
 
--
+
 
 ## Goals
 - Compare cost trend across housing options **on-campus**:
@@ -11,13 +11,13 @@ Analysis and compares on-campus and off-campus housing options for students at *
 -Predict housing costs
 -Visualize trends and help students make informed living decisions.
 
--
+
 
 ## Sources
 - **On-Campus Housing**: CSUMB Housing website (https://csumb.edu/housing/)
 - **Off-Campus Listings**: Public data from Zillow and/or Craigslist (manual collection or web scraping)
 
--
+
 
 ## Tools and Libraries
 
