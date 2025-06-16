@@ -7,9 +7,9 @@ Analysis and compares on-campus and off-campus housing options for students at *
 ## Goals
 - Compare cost trend across housing options **on-campus**:
 *East Campus, North Quad, Promontory, Residence Halls*
--Compare **off-campus** listing via sources Zillow and Craigslist.
--Predict housing costs
--Visualize trends and help students make informed living decisions.
+- Compare **off-campus** listing via sources Zillow and Craigslist.
+- Predict housing costs
+- Visualize trends and help students make informed living decisions.
 
 
 
@@ -21,9 +21,9 @@ Analysis and compares on-campus and off-campus housing options for students at *
 
 ## Tools and Libraries
 
--Python 3.x
--pandas, numpy
--matplotlib, seaborn
--scikit-learn 
+- Python 3.x
+- pandas, numpy
+- matplotlib, seaborn
+- scikit-learn 
 -Streamlit (optional dashboard)
 
